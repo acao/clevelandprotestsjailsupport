@@ -1,9 +1,11 @@
 # Site settings
-title: CLE Protests Jail Support
+title: CLE Movement Law
 email: clevelandaction@gmail.com
 url: cleprotestsjailsupport.com
 baseurl: ''
-description: "Jail Support for Cleveland Protesters, from the Brelo Verdict 71 and on until the City of Cleveland recognizies that All Black Lives Matter"
+description: "Jail & Legal Support for Cleveland Protesters, activists, freedom fighters who are working towards a city where All Black Lives Matter"
+
+>>>>>>> 871d49228662130635be685650a8c45009604c25
 
 # Contact form: comment the line below if you want to stick with the default PHP contact form
 contact: static
