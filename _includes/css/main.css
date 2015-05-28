@@ -494,3 +494,7 @@ header .fa-inverse {
 .success a {
     color: white;
 }
+
+.brand h1 {
+    font-size:24px;
+}
