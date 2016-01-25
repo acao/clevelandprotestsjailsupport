@@ -30,7 +30,7 @@ cleactsocial:
 
 nlgsocial:
   - title: envelope
-    url: cleveland@nlg.org
+    url: mailto:cleveland@nlg.org
   - title: facebook
     url: https://www.facebook.com/ohionlg/
   - title: phone
