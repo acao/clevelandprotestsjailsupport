@@ -24,9 +24,15 @@
                         <h3>Cleveland Action</h3>
                         <ul class="list-inline">
                             {% for network in site.cleactsocial %}
+                            {% if network.title == 'envelope' %}
+                            <li>
+                                <a href="mailto:{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
+                            </li>
+                            {% else %}
                             <li>
                                 <a href="{{ network.url }}" class="btn-social btn-outline"><i class="fa fa-fw fa-{{ network.title }}"></i></a>
                             </li>
+                            {% endif %}
                             {% endfor %}
                         </ul>
                     </div>
